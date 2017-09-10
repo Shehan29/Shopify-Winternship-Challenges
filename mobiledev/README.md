@@ -8,3 +8,6 @@ This mobile app can run on both iOS and Android and simply displays the amount s
 ## Running
 - `npm start`
 - Download and install the Expo app and scan the QR code that shows up in the terminal (the app will open shortly after)
+
+## Screenshot
+<img src="https://github.com/Shehan29/Shopify-Winternship-Challenges/blob/master/mobiledev/screenshot.png" width="300" />
