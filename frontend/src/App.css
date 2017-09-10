@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  background-color: #000639;
+  min-width: 485px;
+}
+
+.App-body {
+  margin: auto;
+  height: 150px;
+  max-width: 510px;
+  padding: 20px;
+  color: white;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 100px;
+}
+
+.text {
+  font-size: 16px;
+  font-weight: 100;
+}
+
+.inputField {
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 5px;
+  margin-right: 10px;
+  width: 250px;
+  outline: none;
+}
+
+.button {
+  font-size: 16px;
+  color: white;
+  background-color: #5c6ac4;
+  border-color: #5c6ac4;
+  border-radius: 5px;
+  padding: 15px;
+  width: 150px;
+  outline: none;
+}
+
+/*
+success-color: #7AB55C;
+error-color: #C23628;
+base-font-size: 16px;
+title-font-size: 24px;
+field-status-font-size: 13px;
+*/
